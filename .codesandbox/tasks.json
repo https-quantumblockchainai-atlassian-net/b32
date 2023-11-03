@@ -11,18 +11,15 @@
   "tasks": {
     "build": {
       "name": "build",
-      "command": "npm run build",
-      "runAtStart": false
+      "command": "npm run build"
     },
     "test": {
       "name": "test",
-      "command": "npm run test",
-      "runAtStart": false
+      "command": "npm run test"
     },
     "clean": {
       "name": "clean",
-      "command": "npm run clean",
-      "runAtStart": false
+      "command": "npm run clean"
     }
   }
 }
