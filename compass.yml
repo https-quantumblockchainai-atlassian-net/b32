@@ -1,0 +1,14 @@
+name: b32
+id: ari:cloud:compass:2261fd15-e484-47df-a3c1-3945f31f5015:component/e50c4fd7-4bca-45fe-87b2-62835b87da68/697aa229-0ac3-4d7c-980d-51e9f722d82e
+description: Signature collection of smart contract method & event
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - language:typescript
+  - source:github
+customFields: null
