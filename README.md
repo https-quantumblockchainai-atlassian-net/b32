@@ -1,4 +1,6 @@
 # B32
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fb32.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fb32?ref=badge_shield)
+
 
 > [Signature collection of smart contract method & event.](https://b32.vecha.in)
 
@@ -25,3 +27,7 @@ The output will be
 
 which is an array of objects which share the same signature.
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fb32.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fb32?ref=badge_large)
